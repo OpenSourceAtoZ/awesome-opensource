@@ -39,10 +39,18 @@ https://github.com/features/projects/issues
 ###GitHub tutorial - forking a repository and contributing to a project
 https://help.github.com/articles/fork-a-repo/
 
+###Github - Browsing github by topics that interest you most
+https://github.com/showcases
+
+###Github - What's hot in GitHub
+https://github.com/trending
+
+###Github Integrations
+https://github.com/integrations
+https://help.github.com/articles/about-webhooks/
+
 ####Github browser extensions
 https://github.com/showcases/github-browser-extensions
 
-
-###Github Integrations
-https://help.github.com/articles/about-webhooks/
-https://github.com/showcases/github-browser-extensions
+###Open Source conference -A CONFERENCE EXPLORING OPEN SOURCE, OPEN TECH, AND THE OPEN WEB IN THE ENTERPRISE
+http://allthingsopen.org/
